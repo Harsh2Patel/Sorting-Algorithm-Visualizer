@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#array-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 400px;
+    margin-top: 20px;
+}
+
+.bar {
+    width: 5px;
+    margin: 0 1px;
+    background-color: steelblue;
+}
+
+
+
+
+
+
